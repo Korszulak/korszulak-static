@@ -12,16 +12,25 @@ body {
 	box-shadow: 0px 0px 8px rgba(0,0,0,0.3);
 }
 
-#json {
+.button {
 	height: 60px;
 	width: 100px;
-	text-align: center;
-	line-height: 60px;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
+	font-size: 18px;
+	background-color: rgba(0,0,0,0);
+	border: none;
+	color: white;
+	cursor: pointer;
 }
 
-#json:hover {
+.button:hover {
 	background-color: #26A69A;
+}
+
+.button:focus {
+	border: none;
+    outline:none;
 }
 
 #welcome {

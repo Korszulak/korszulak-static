@@ -1,0 +1,10 @@
+body {
+	background-color: #263238;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+#header {
+	background-color: #37474F;
+	width: 100%;
+}

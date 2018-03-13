@@ -1,8 +1,8 @@
 {
-    "FirstName": "Karol",
-    "LastName": "Orszulak",
-    "PreferredName": "Karl",
-    "TeamName": "Great White Buffalos",
-    "SeatLocation": "2-10",
-    "Roles": ["Team Member"]
+    "firstName": "Karol",
+    "lastName": "Orszulak",
+    "preferredName": "Karl",
+    "teamName": "Great White Buffalos",
+    "seatLocation": "2-10",
+    "roles": ["Team Member"]
 }
